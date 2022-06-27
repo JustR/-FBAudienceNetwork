@@ -1,9 +1,9 @@
 # FBAudienceNetwork
 FBAN 6.11.1 source
+
 Used to solve the problem that pod install "Error installing FBAudienceNetwork"
 
 Instructions：
-
 1. cd ~/.cocoapods/repos/master/Specs
 2. search and find FBAudienceNetwork 6.11.1 folder
 3. edit FBAudienceNetwork.podspec.json
